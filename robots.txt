@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://yicapisu.github.io/sitemap/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/wbE/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/QFq/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/aQA/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/mZB/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/mYa/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/KXY/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/Tnq/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/aJK/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/bLr/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/Qxd/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/FQp/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/HoB/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/igA/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/DuE/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/bsF/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/dsx/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/AFL/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/KbI/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/orG/sitemap_index.yicapisu
+Sitemap: https://yicapisu.github.io/Cmg/sitemap_index.yicapisu
